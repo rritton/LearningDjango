@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicProject", "BasicProjec
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWeb", "DjangoWeb\DjangoWeb.pyproj", "{15F4AC92-0354-48E5-A645-41353F0250A8}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoPolls", "DjangoPolls\DjangoPolls.pyproj", "{4263C51D-20C9-45BC-ABC1-B237582F60EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15F4AC92-0354-48E5-A645-41353F0250A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15F4AC92-0354-48E5-A645-41353F0250A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15F4AC92-0354-48E5-A645-41353F0250A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4263C51D-20C9-45BC-ABC1-B237582F60EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4263C51D-20C9-45BC-ABC1-B237582F60EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4263C51D-20C9-45BC-ABC1-B237582F60EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4263C51D-20C9-45BC-ABC1-B237582F60EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
